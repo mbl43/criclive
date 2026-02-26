@@ -1,0 +1,5 @@
+{
+  "name": "CricLive - Broadcast Scorecard",
+  "description": "A real-time cricket live score application with a broadcast-style UI, powered by Cricbuzz data.",
+  "requestFramePermissions": []
+}
